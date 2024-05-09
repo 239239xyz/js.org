@@ -17,6 +17,7 @@
 
 var cnames_restricted = [
     "(1/2/3/...)",
+    "(a/b/c/...)",
     "a11y",
     "about",
     "account(s)",
@@ -78,6 +79,7 @@ var cnames_restricted = [
     "director(y/ies)",
     "dns",
     "doc(s)",
+    "dom",
     "domain(s)",
     "donate(s)",
     "dyn",
@@ -238,7 +240,7 @@ var cnames_restricted = [
     "uri(s)",
     "url(s)",
     "user(s)",
-    "util(s/ity)",
+    "util(s/ity/ities)",
     "validate",
     "var(s)",
     "virtual",
